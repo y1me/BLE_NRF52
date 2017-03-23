@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.14331455/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.14331455/appendContributed=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1935059244/PATH/delimiter=\:
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1935059244/PATH/operation=append
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1935059244/PATH/value=/usr/local/gcc-arm-none-eabi-5_4-2016q3/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/opt/microchip/xc8/v1.37/bin\:/opt/microchip/xc8/v1.40/bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1935059244/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1935059244/appendContributed=true
