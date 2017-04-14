@@ -2,7 +2,7 @@ PROJECT_NAME     := ble_app_tuto_adv
 TARGETS          := nrf52832_xxaa
 OUTPUT_DIRECTORY := _build
 
-SDK_ROOT := ../../../nRF5_SDK-12.2.0/
+SDK_ROOT := ../../../nRF5_SDK-12.2.0
 PROJ_DIR := ..
 
 $(OUTPUT_DIRECTORY)/nrf52832_xxaa.out: \
